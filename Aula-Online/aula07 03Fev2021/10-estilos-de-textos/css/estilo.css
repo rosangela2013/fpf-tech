@@ -1,0 +1,18 @@
+body{
+    font-size: 3em;
+}
+.negrito{
+    font-weight: bold;
+}
+.italico{
+    font-style: italic;
+}
+.linha-baixo{
+    text-decoration: underline;
+}
+.linha-cima{
+    text-decoration: overline;
+}
+.riscado{
+    text-decoration: line-through;
+}

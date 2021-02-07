@@ -1,0 +1,15 @@
+div{
+    background-color: #c99944;
+}
+body{
+    background-image: url(../img/saitama.png);
+    /*no-repeat repeat repeat-x repeat-y*/
+    background-repeat: no-repeat;
+    /* Duas opções: scroll e fixed*/
+    background-attachment: fixed;
+    /*right; left; bottom, center, top, right top ou right bottom */
+    background-position: center;
+    /* contair cover*/
+    background-size: cover;
+
+}

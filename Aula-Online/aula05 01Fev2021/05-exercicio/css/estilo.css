@@ -1,0 +1,9 @@
+.caixa {
+    background-color:black;
+    color: red;
+}
+
+#caixa-diferente {
+    background-color: pink;
+    color: blue;
+}

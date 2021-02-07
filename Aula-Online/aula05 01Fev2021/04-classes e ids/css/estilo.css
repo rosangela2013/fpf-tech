@@ -1,0 +1,14 @@
+p{
+    background-color: yellow;
+    color: blue;
+}
+
+.paragrafo{
+    background-color: blue;
+    color: pink;
+}
+
+#paragrafo-unico{
+    background-color: red;
+    color: green;
+}

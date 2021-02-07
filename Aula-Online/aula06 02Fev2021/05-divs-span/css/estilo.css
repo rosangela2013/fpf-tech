@@ -1,0 +1,18 @@
+#cabecalho{
+    background-color: grey;
+    color:red;
+}
+#principal{
+    background-color: purple;
+}
+#rodape{
+    background-color: green;
+}
+.produto{
+    background-color: red;
+    margin: 10px;
+}
+.assinatura{
+    background-color: purple;
+    color: pink;
+}

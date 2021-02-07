@@ -1,0 +1,25 @@
+.pagina{
+    background-color:#323c55;
+    color:#fff;
+}
+
+.sub-titulo{
+    color: #f1c40f;  
+}
+
+.caixa-semanal{
+    background-color:  #f1c40f;
+    color: black; 
+     
+}
+
+#titulo-semanal{
+    color:black ;
+    background-color: #f1c40f;
+    border: 5px solid black  
+}
+
+.opcao-menu{
+    color:#ff0000;
+}
+

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tela de Cadastro</title>
+</head>
+<body>
+    <h2>Cadastrar usuários</h2>
+    <form action="">
+
+        <label for="email">Email</label>
+        <br><input type="email" name="Email" id="email">
+        <br><label for="sexo">Sexo</label>
+        <br><input type="radio" name="sexo" id="sexo" value="M"> Masculino
+        <br><input type="radio" name="sexo" id="sexo" value="F"> Feminino
+
+        <br><label for="interesses">Interesses</label>
+        <br><input type="checkbox" name="interesses" id="interesses"> Futebol
+        <br><input type="checkbox" name="interesses" id="interesses"> Amigos
+        <br><input type="checkbox" name="interesses" id="interesses"> Músicas
+        <br><input type="checkbox" name="interesses" id="interesses"> Animais
+
+        <br><label for="estados">Estados</label>
+        <br><select name="Estados" id="estados">
+            <option value="sp">SP</option>
+            <option value="am">AM</option>
+            <option value="rj">RJ</option>
+            <option value="mg">MG</option>
+            <option value="rs">RS</option>
+        </select>
+        
+        <br><label for="obs">Observações</label>
+        <br><textarea name="obs" id="obs" cols="30" rows="10"></textarea>
+        <br><input type="submit" value="Cadastrar">
+
+    </form>
+    <a href="index.html"> Fazer Login</a>
+</body>
+</html>

@@ -1,0 +1,18 @@
+h{
+
+}
+p{
+    background-color: black;
+    color: white;
+}
+
+.destaque {
+    color:red;
+    background-color: pink;
+
+}
+<!-- Usado unica vez ->
+#titulo-unico{
+    color: green;
+    background-color: springgreen;
+}
